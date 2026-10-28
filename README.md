@@ -1,5 +1,5 @@
 
-## 👋 Hi, I'm Kozu!
+## 👋 Hi, I'm Benz!
 
 ## 👤 About Me
 I'm an undergraduate student at the University of Texas at San Antonio (UTSA), pursuing a B.S. in Cybersecurity.
